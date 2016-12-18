@@ -12,8 +12,8 @@ Aplikacja zawiera w sobie dwa paski nawigacyjne, które zostały stworzone w tec
 
 #### Screenshoty
 
-![Start](http://collector1871.github.io/screeny/respphp001.jpg)
+![Start](https://raw.githubusercontent.com/collector1871/resp-php/master/respphp001.jpg)
 
-![rejestracja](http://collector1871.github.io/screeny/respphp002.jpg)
+![rejestracja](https://raw.githubusercontent.com/collector1871/resp-php/master/respphp002.jpg)
 
-![responsywne menu](http://collector1871.github.io/screeny/respphp003.jpg)
+![responsywne menu](https://raw.githubusercontent.com/collector1871/resp-php/master/respphp003.jpg)
