@@ -1,4 +1,4 @@
-#### Responsywne PHP
+### Responsywne PHP
 
 * kod źródłowy :
 [https://github.com/collector1871/resp-php][1]
