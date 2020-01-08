@@ -88,7 +88,7 @@ $sectbede_dane = array(
 <h4><br> Układ zmienia się po rozdzielczości:
 <br>rejestracja.php : szerokość - około 992
 <br>index.php : szerokość - około 978 pikseli
-<br><br>autor:<br> collector1871 - <a href="http://collector1871.github.io"><font color="red">http://collector1871.github.io</font></a></h4> <br>    
+<br><br>autor:<br> rdbeni0 - <a href="http://rdbeni0.github.io"><font color="red">http://rdbeni0.github.io</font></a></h4> <br>    
 </div>
 </div> 
 </body>
